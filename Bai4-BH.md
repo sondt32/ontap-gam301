@@ -1,6 +1,6 @@
 ## Phần 2: Behavior Graph
 
-### Cài Visual Scripting nếu chưa có trên unity
+### Cài gói com.unity.behavior
  
 ### Tạo Graph FSM cho Cube
 
@@ -13,7 +13,6 @@ Tạo các object sau:
 - PointA (Empty)
 - PointB (Empty)
 
-Cài gói com.unity.behavior
 
 Tạo file graph
 Gán cho Cube:  Add Component → Behavior Agent --> chọn file graph vừa tạo
