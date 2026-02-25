@@ -1,5 +1,5 @@
 # Xử lý hành hành vi bằng code
-
+```
 using UnityEngine;
 
 public class CubeBehavior : MonoBehaviour
@@ -56,3 +56,4 @@ public class CubeBehavior : MonoBehaviour
         transform.Rotate(Vector3.up * rotateSpeed * Time.deltaTime);
     }
 }
+```
