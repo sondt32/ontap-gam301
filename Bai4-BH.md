@@ -1,4 +1,21 @@
+## Phần 2: Behavior Graph
 
+### Cài Visual Scripting nếu chưa có trên unity
+ 
+### Tạo Graph FSM cho Cube
+
+Chuẩn bị Scene
+
+Tạo các object sau:
+
+- Cube (AI)
+- Player (Capsule)
+- PointA (Empty)
+- PointB (Empty)
+
+Cài gói com.unity.behavior
+
+Tạo file graph
 Gán cho Cube:  Add Component → Behavior Agent --> chọn file graph vừa tạo
 
 Bước 1 — Tạo biến
