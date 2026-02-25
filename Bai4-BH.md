@@ -24,10 +24,15 @@ Trong Graph → Blackboard / Variables
 Tạo:
 
 PointA (Transform)
+
 PointB (Transform)
+
 Player (Transform)
+
 Speed (float) = 2
+
 RotateSpeed (float) = 90
+
 Distance (float) = 5
 
 Bước 2 - Tạo node "Navigate to target" , agent là self, target là PointA. Sau đó kéo mũi tên từ Onstart sang node navigate này
