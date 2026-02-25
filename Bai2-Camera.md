@@ -19,14 +19,19 @@ Chú ý: Cam mặc định bị soi chéo xuống, hãy chỉnh lại rotation �
 #### Camera 1 – theo nhân vật
 
 Follow: Player
+
 Look At: Player
+
 Priority: 10
 
 #### Camera 2 – nhìn hộp
 
 Follow: để trống hoặc Player
+
 Look At: Box
+
 Priority: 0
+
 Lens: 10
 
 ### 4. Gắn Script
